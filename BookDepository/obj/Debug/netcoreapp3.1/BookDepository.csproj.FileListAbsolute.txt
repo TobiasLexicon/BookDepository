@@ -1,0 +1,13 @@
+/Users/tobiasengberg/Projects/BookDepository/bin/Debug/netcoreapp3.1/BookDepository.deps.json
+/Users/tobiasengberg/Projects/BookDepository/bin/Debug/netcoreapp3.1/BookDepository.runtimeconfig.json
+/Users/tobiasengberg/Projects/BookDepository/bin/Debug/netcoreapp3.1/BookDepository.runtimeconfig.dev.json
+/Users/tobiasengberg/Projects/BookDepository/bin/Debug/netcoreapp3.1/BookDepository.dll
+/Users/tobiasengberg/Projects/BookDepository/bin/Debug/netcoreapp3.1/BookDepository.pdb
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.dll
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.pdb
+/Users/tobiasengberg/Projects/BookDepository/obj/Debug/netcoreapp3.1/BookDepository.genruntimeconfig.cache

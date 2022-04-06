@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{94B2DC50-FFF3-4D87-A872-DB227DEDD027}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookDepository.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="BookDepository.Tests/UnitTest1.cs" Line="17" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookDepository" expanded="True">
+            <Node name="BookDepository" selected="True" />
+            <Node name="BookDepository.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BookDepository" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookDepository.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
